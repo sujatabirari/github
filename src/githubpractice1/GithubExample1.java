@@ -9,7 +9,9 @@ public class GithubExample1 {
 		System.out.println("by");
 		System.out.println("demo 1");
 		System.out.println("demo 2");
-		System.out.println("demo 4");
+		System.out.println("demo 6");
+
+		
 		
 	}
 }
